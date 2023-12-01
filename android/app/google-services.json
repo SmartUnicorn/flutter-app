@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "754615847029",
+    "firebase_url": "https://mobikul-magento2-app.firebaseio.com",
+    "project_id": "mobikul-magento2-app",
+    "storage_bucket": "mobikul-magento2-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754615847029:android:52f208b5eafbe3f228903c",
+        "android_client_info": {
+          "package_name": "com.example.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754615847029-f3f639ug15hakh7pjkacnthk3j6131m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_05KkgNRt8rTVoIi5BKxcpDSNdv-2nC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754615847029-f3f639ug15hakh7pjkacnthk3j6131m2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "754615847029-0f7u4gbu8vics7jn7q6qd3m4ie5mb9ma.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webkul.MobikulMagento2B2B"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
